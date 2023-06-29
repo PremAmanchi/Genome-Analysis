@@ -2,7 +2,7 @@
 
 Welcome to the GENOME-ANALYSES repository! This project is based on the research paper titled "Compression-complexity measures for analysis and classification of coronaviruses." The study focuses on utilizing compression-complexity-based distance measures to analyze genomic sequences, generate phylogenetic trees, and train machine learning models using complexity values as features.
 
-Authors
+#Authors
 Amanchi Prem Kumar
 Munagala Naga Venkata Trinath Sai
 Athira Panicker
@@ -12,7 +12,7 @@ Affiliation: Department of Electronics and Communication Engineering, Amrita Sch
 Nithin Nagaraj
 Affiliation: Consciousness Studies Programme, National Institute of Advanced Studies, Bengaluru, Karnataka, India.
 
-Setup Instructions
+#Setup Instructions
 These instructions will guide you in setting up the GENOME_ANALYSES project on your local machine.
 
 Place the downloaded folder GENOME_ANALYSES in your MATLAB working directory and add it to the path (right-click on the GENOME_ANALYSES folder and select "Add to Path > Folders and Subfolders").
@@ -25,14 +25,14 @@ Open the workspace directory GENOME_ANALYSES.
 Click the "Run" button in the MATLAB editor.
 Alternatively, you can run it from the command window by typing Classification_main (without quotes) and pressing ENTER.
 
-Phylogeny Tree Generation
+#Phylogeny Tree Generation
 To generate the phylogeny tree:
 
 Open the workspace directory GENOME_ANALYSES.
 Click the "Run" button in the MATLAB editor.
 Alternatively, you can run it from the command window by typing phylogeny_main (without quotes) and pressing ENTER.
 
-Common Instructions for Classification
+#Common Instructions for Classification
 Classification_main.m is the main program that you need to run for obtaining classification results.
 The complete list of provided datasets used in the paper can be found in the "DataBase" section of the Readme file.
 The default dataset is 'covid'. You can change the dataset by modifying line number 8 in Classification_main.m.
