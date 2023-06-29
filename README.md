@@ -1,6 +1,6 @@
 # Genome-Analysis
 
-Welcome to the GENOME-ANALYSES repository! This project is based on the research paper titled "Compression-complexity measures for analysis and classification of coronaviruses." (DOI: 10.3390/e25010081) The study focuses on utilizing compression-complexity-based distance measures to analyze genomic sequences, generate phylogenetic trees, and train machine learning models using complexity values as features.
+Welcome to the GENOME-ANALYSES repository! This project is based on the research paper titled "Compression-complexity measures for analysis and classification of coronaviruses." (https://doi.org/10.3390/e25010081) The study focuses on utilizing compression-complexity-based distance measures to analyze genomic sequences, generate phylogenetic trees, and train machine learning models using complexity values as features.
 
 #Authors
 Amanchi Prem Kumar
